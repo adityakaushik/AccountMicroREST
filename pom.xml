@@ -36,19 +36,19 @@
     	</dependency>
     	
     	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-<!-- dependency>
+	<dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.24</version>
-</dependency-->
+</dependency>
     	
-		<dependency>
+		<!--dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
 			<version>7.2.2.jre8</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/src/main/resources/mssql-jdbc-7.2.2.jre8.jar</systemPath>
-		</dependency>
+		</dependency-->
     
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
